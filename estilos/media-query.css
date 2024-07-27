@@ -8,6 +8,7 @@
 
     section#login {
     width: 90vw;
+    height: 350px;
 
 }
 section#login > div#imagem{
@@ -39,11 +40,13 @@ div#form {
         float: right;
         width: 50%;
      }
-     div#form >p {
+     div#form > p {
         font-size: 1.2em;
+        margin: 10px 0px;
     }
     div#form > h1 {
         font-size: 2em;
+        
     }
     
 

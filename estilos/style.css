@@ -44,8 +44,15 @@ section#login > div#imagem {
     -moz-transition-timing-function: ease;
 }
 div#form {
-    padding: 10px;
+    padding: 20px;
     display: block;
 
+}
+div#form > h1 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+div#form >p {
+    font-size: 0.8em;
 }
    

@@ -39,6 +39,9 @@ section#login > div#imagem {
     background-repeat: no-repeat;
     background-position: center center;
     display: block;
+
+    transition: width .3s, height .3s;
+    -moz-transition-timing-function: ease;
 }
 div#form {
     padding: 10px;

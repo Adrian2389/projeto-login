@@ -13,7 +13,7 @@
 }
 section#login > div#imagem{
     float: left;
-    width: 30%;
+    width: 30%;                           
     height: 100%;
 }
 div#form {
@@ -52,3 +52,10 @@ div#form {
 
     }  
 
+    section#login {
+        padding: 20px 30px;
+        padding-top: 100px;
+        padding-bottom: 100px; 
+    
+       }
+    
